@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_food"
+        android:title="Makanan"
+        android:icon="@drawable/icon_food" />
+    <item android:id="@+id/action_drink"
+        android:title="Minuman"
+        android:icon="@drawable/icon_drink2" />
+    <item android:id="@+id/action_pesan"
+        android:title="Pesan"
+        android:icon="@drawable/keranjang" />
+</menu>
